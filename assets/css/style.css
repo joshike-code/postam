@@ -10585,7 +10585,7 @@ section {
   .theme-dark .header {
     border-bottom: 1px solid var(--border-color); }
   .theme-dark .text-black {
-    color: rgba(255, 255, 255, 0.7) !important; }
+    color: rgba(255, 255, 255, 1) !important; }
   .theme-dark .post-card .meta-list li svg path {
     stroke: #ffffff; }
   .theme-dark .border-bottom {
