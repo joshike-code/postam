@@ -424,7 +424,7 @@ Soziety = function(){
 			handleCustomFileInput();
             handleMessageHandle();
             handleGoBack();
-            handlePWAModal();
+            // handlePWAModal();
             handleSearch();
             handleRemoveClass();
             handlePostLike();
