@@ -9964,8 +9964,8 @@ section {
     border-radius: var(--border-radius-base);
     -webkit-border-radius: var(--border-radius-base);
     border: 2px solid #fff;
-    width: 45px;
-    height: 45px;
+    width: 35px;
+    height: 35px;
     overflow: hidden;
      }
     .header .dz-media .dz-media img {
