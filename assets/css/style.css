@@ -1,8 +1,6 @@
 /* 	=========================
-	Template Name 	 : Soziety
-	Author			 : DexignZone
+	Author			 : Ikenna Anunuso
 	Version			 : 1.0
-	Author Portfolio : https://themeforest.net/user/dexignzone
 	=========================
 	
 	=========================
@@ -70,6 +68,8 @@
 	==============
 ========================= */
 /*==== 1. Abstracts ====*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,400&family=Nunito+Sans:wght@400;600&family=Roboto:wght@100;300;400;500&family=Satisfy&family=Urbanist:wght@200;300;400;500;600;700;800;900&display=swap');
 @import url("../vendor/fontawesome/css/all.min.css");
 @import url("../vendor/flaticon/flaticon.css");
 @import url("../vendor/uicons-solid-rounded/css/uicons-solid-rounded.css");
@@ -92,7 +92,7 @@
   --rgba-primary-7: rgba(254, 144, 99, 0.7);
   --rgba-primary-8: rgba(254, 144, 99, 0.8);
   --rgba-primary-9: rgba(254, 144, 99, 0.9);
-  --font-family-base: Nunito, sans-serif;
+  --font-family-base: 'Roboto', sans-serif;
   --font-family-title: Poppins, sans-serif;
   --border-radius-base: 12px;
   --border-radius-sm: 0.5rem;
@@ -105,6 +105,13 @@
   --bg-white: #FFF;
   --box-shadow: 0px 35px 66px 0px rgba(236, 21, 21, 0.15);
   --title: #2F2F2F; }
+
+  .text-black {
+    font-family: 'Roboto', sans-serif;
+    /* font-weight: 200; */
+    color: #071c35 !important;
+    
+  }
 
 /*
 	0 - 600: Phone
@@ -157,7 +164,7 @@
   --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
-  --bs-body-font-family: Nunito, sans-serif;
+  --bs-body-font-family: 'Roboto', sans-serif;
   --bs-body-font-size: 0.875rem;
   --bs-body-font-weight: 500;
   --bs-body-line-height: 1.6;
@@ -8049,8 +8056,12 @@ a {
 .bg-primary {
   background-color: var(--primary) !important; }
 
-.text-black {
-  color: #071c35 !important; }
+/* .text-black {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 200;
+  color: #071c35 !important;
+  
+} */
 
 .container {
   max-width: 1024px;
@@ -10873,7 +10884,7 @@ section {
       padding: 0;
       font-weight: 900; }
 
-:root {
+/* :root {
   --primary: #FE9063;
   --secondary: #704FFE;
   --primary-light: rgba(255, 251, 246, 0.80);
@@ -10902,7 +10913,7 @@ section {
   --dark: #2F2F2F;
   --bg-white: #FFF;
   --box-shadow: 0px 35px 66px 0px rgba(236, 21, 21, 0.15);
-  --title: #2F2F2F; }
+  --title: #2F2F2F; } */
 
 .noUi-target {
   border: 0px;
