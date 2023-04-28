@@ -106,6 +106,10 @@
   --box-shadow: 0px 35px 66px 0px rgba(236, 21, 21, 0.15);
   --title: #2F2F2F; }
 
+  .outliner {
+    outline: 2px solid red;
+  }
+
   .text-black {
     /* font-family: 'Roboto', sans-serif; */
     /* font-weight: 200; */
