@@ -92,8 +92,8 @@
   --rgba-primary-7: rgba(254, 144, 99, 0.7);
   --rgba-primary-8: rgba(254, 144, 99, 0.8);
   --rgba-primary-9: rgba(254, 144, 99, 0.9);
-  --font-family-base: 'Noto Sans', sans-serif;
-  --font-family-title: 'Noto Sans', sans-serif;
+  --font-family-base: 'Poppins', sans-serif;
+  --font-family-title: 'Poppins', sans-serif;
   --border-radius-base: 12px;
   --border-radius-sm: 0.5rem;
   --border-color: #E6E6E6;
@@ -8012,7 +8012,7 @@ h6, .h6 {
 
 p {
   font-size: 0.875rem;
-  font-weight: 400; }
+  font-weight: 300 !important; }
 
 ul {
   padding: 0;
