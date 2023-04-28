@@ -69,7 +69,7 @@
 ========================= */
 /*==== 1. Abstracts ====*/
 
-@import url('https://fonts.googleapis.com/css2?family=Gudea:ital,wght@0,400;0,700;1,400&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,400&family=Noto+Sans:wght@100;200;300;400;500;600;700;800&family=Roboto+Slab&family=Roboto:wght@100;300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@100;200;300;400;500;600;700;800&family=Gudea:ital,wght@0,400;0,700;1,400&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,400&family=Noto+Sans:wght@100;200;300;400;500;600;700;800&family=Roboto+Slab&family=Roboto:wght@100;300;400;500&display=swap');
 @import url("../vendor/fontawesome/css/all.min.css");
 @import url("../vendor/flaticon/flaticon.css");
 @import url("../vendor/uicons-solid-rounded/css/uicons-solid-rounded.css");
@@ -92,8 +92,8 @@
   --rgba-primary-7: rgba(254, 144, 99, 0.7);
   --rgba-primary-8: rgba(254, 144, 99, 0.8);
   --rgba-primary-9: rgba(254, 144, 99, 0.9);
-  --font-family-base: 'Poppins', sans-serif;
-  --font-family-title: 'Poppins', sans-serif;
+  --font-family-base: 'Epilogue', sans-serif;
+  --font-family-title: 'Epilogue', sans-serif;
   --border-radius-base: 12px;
   --border-radius-sm: 0.5rem;
   --border-color: #E6E6E6;
