@@ -416,7 +416,7 @@ Soziety = function(){
 		init:function(){
 			handleMenubar();
 			handleToggleButton();
-			handleLikeButton();
+			// handleLikeButton();
 			handleShowPass();
 			handleChatBox();
 			handleScrollTop();
@@ -424,15 +424,15 @@ Soziety = function(){
 			handleCustomFileInput();
             handleMessageHandle();
             handleGoBack();
-            // handlePWAModal();
+             // handlePWAModal();
             handleSearch();
             handleRemoveClass();
-            handlePostLike();
+            // handlePostLike();
 			handleTabSlide();
 			handleChangeText();
 			handleImageSelect();
 			handleOTP();
-		},
+		 },
 
 		load:function(){
 			handlePreloader();

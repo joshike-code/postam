@@ -92,8 +92,8 @@
   --rgba-primary-7: rgba(254, 144, 99, 0.7);
   --rgba-primary-8: rgba(254, 144, 99, 0.8);
   --rgba-primary-9: rgba(254, 144, 99, 0.9);
-  --font-family-base: 'Gudea', sans-serif;
-  --font-family-title: 'Gudea', sans-serif;
+  --font-family-base: 'Noto Sans', sans-serif;
+  --font-family-title: 'Noto Sans', sans-serif;
   --border-radius-base: 12px;
   --border-radius-sm: 0.5rem;
   --border-color: #E6E6E6;
@@ -110,7 +110,7 @@
     /* font-family: 'Roboto', sans-serif; */
     /* font-weight: 200; */
     color: #071c35 !important;
-    font-size: 0.975rem;
+    font-size: 0.94rem;
     line-height: 1.45rem;
     /* letter-spacing: .02rem; */
     /* font-stretch: 200%; */
@@ -8008,7 +8008,7 @@ h5, .h5 {
   font-size: 1.125rem; }
 
 h6, .h6 {
-  font-size: 0.975rem; }
+  font-size: 0.94rem; }
 
 p {
   font-size: 0.875rem;
