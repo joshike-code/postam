@@ -92,8 +92,8 @@
   --rgba-primary-7: rgba(254, 144, 99, 0.7);
   --rgba-primary-8: rgba(254, 144, 99, 0.8);
   --rgba-primary-9: rgba(254, 144, 99, 0.9);
-  --font-family-base: 'Epilogue', sans-serif;
-  --font-family-title: 'Epilogue', sans-serif;
+  --font-family-base: 'Nunito', sans-serif;
+  --font-family-title: 'Nunito', sans-serif;
   --border-radius-base: 12px;
   --border-radius-sm: 0.5rem;
   --border-color: #E6E6E6;
@@ -8154,7 +8154,7 @@ small, .small, .small {
   color: rgba(0, 0, 0, 0.5) !important; }
 
 .title {
-  font-weight: 800;
+  font-weight: 600;
   margin-bottom: 15px;
   color: var(--title); }
 
