@@ -69,7 +69,7 @@
 ========================= */
 /*==== 1. Abstracts ====*/
 
-@import url('https://fonts.googleapis.com/css2?family=Gudea:ital,wght@0,400;0,700;1,400&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,400&family=Noto+Sans:wght@300&family=Roboto+Slab&family=Roboto:wght@100;300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gudea:ital,wght@0,400;0,700;1,400&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,400&family=Noto+Sans:wght@200&family=Roboto+Slab&family=Roboto:wght@100;300;400;500&display=swap');
 @import url("../vendor/fontawesome/css/all.min.css");
 @import url("../vendor/flaticon/flaticon.css");
 @import url("../vendor/uicons-solid-rounded/css/uicons-solid-rounded.css");
@@ -7987,7 +7987,7 @@ body {
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: var(--font-family-title);
-  font-weight: 800;
+  font-weight: 600;
   color: var(--title); }
   h1 a, .h1 a, h2 a, .h2 a, h3 a, .h3 a, h4 a, .h4 a, h5 a, .h5 a, h6 a, .h6 a, .h1 a, .h2 a, .h3 a, .h4 a, .h5 a, .h6 a {
     color: var(--title); }
@@ -8154,7 +8154,7 @@ small, .small, .small {
   color: rgba(0, 0, 0, 0.5) !important; }
 
 .title {
-  font-weight: 800;
+  font-weight: 600;
   margin-bottom: 15px;
   color: var(--title); }
 
