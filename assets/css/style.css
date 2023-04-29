@@ -84,7 +84,7 @@
   --primary-hover: #fe6c30;
   --primary-dark: #c73b01;
   --rgba-primary-1: rgba(254, 144, 99, 0.1);
-  --rgba-primary-2: rgba(254, 144, 99, 0.2);
+  --rgba-primary-2: rgba(254, 144, 99, 0.1);
   --rgba-primary-3: rgba(254, 144, 99, 0.3);
   --rgba-primary-4: rgba(254, 144, 99, 0.4);
   --rgba-primary-5: rgba(254, 144, 99, 0.5);
@@ -14303,7 +14303,7 @@ button {
       display: flex;
       align-items: center;
       justify-content: center;
-      padding: 7px 15px;
+      padding: 5.35px 12px;
       border-radius: 50px;
       font-size: 1rem; }
       .post-card .post-meta-btn .action-btn.bg-primary {
@@ -14317,11 +14317,15 @@ button {
         .post-card .post-meta-btn .action-btn.bg-primary.active .fill-icon-2 {
           display: block; }
       .post-card .post-meta-btn .action-btn.bg-secondary {
-        background: rgba(112, 79, 254, 0.25) !important; }
+        background: rgba(112, 79, 254, 0.1) !important; }
         .post-card .post-meta-btn .action-btn.bg-secondary .fill-icon {
           color: var(--secondary); }
       .post-card .post-meta-btn .action-btn.bg-success {
         background: rgba(184, 184, 184, 0.15) !important; }
+        .post-card .post-meta-btn .action-btn h6 {
+          font-size: .8rem;
+          font-weight: 100;
+        }
   .post-card.overlay .dz-media {
     position: relative;
     overflow: hidden; }
